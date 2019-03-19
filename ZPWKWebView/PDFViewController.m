@@ -15,7 +15,7 @@
 @implementation PDFViewController
 
 - (void)viewDidLoad {
-    self.url = @"http://172.20.223.74:8081/Xfzfwpt/webpage/pages/app/news/news.html?id=fb42a315-e294-4912-b5fb-5f5d0fc5f008";
+    self.url = @"";
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     

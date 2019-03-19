@@ -37,7 +37,7 @@
 }
 - (void)PDFBtnAction:(UIButton*)button{
     ZPWKWebViewController *zpWebVC = [[ZPWKWebViewController alloc]init];
-    zpWebVC.url = @"http://rdcloud.ctbri.com.cn:9000/experience/app/detail?infoId=0";
+    zpWebVC.url = @"";
 //    zpWebVC.isUseWebTitle = NO;
     
 //    zpWebVC.url = @"http://www.baidu.com";
